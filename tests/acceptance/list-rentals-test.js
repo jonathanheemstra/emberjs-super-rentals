@@ -15,14 +15,6 @@ moduleForAcceptance('Acceptance | list rentals', {
   }
 });
 
-test('visiting /', function(assert) {
-  visit('/');
-
-  andThen(function() {
-    assert.equal(currentURL(), '/');
-  });
-});
-
 test('should redirect to rentals route', function (assert) {
   visit('/');
   andThen(function() {
