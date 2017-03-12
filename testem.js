@@ -1,4 +1,6 @@
 /*jshint node:true*/
+console.log('testem.js');
+
 module.exports = {
   "framework": "qunit",
   "test_page": "tests/index.html?hidepassed",

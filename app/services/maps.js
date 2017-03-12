@@ -1,3 +1,4 @@
+console.log('app/services/maps.js');
 import Ember from 'ember';
 import MapUtil from '../utils/google-maps';
 

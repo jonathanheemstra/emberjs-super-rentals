@@ -1,3 +1,4 @@
+console.log('app/controllers/rentals.js');
 import Ember from 'ember';
 
 export default Ember.Controller.extend({

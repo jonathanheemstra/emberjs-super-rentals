@@ -1,3 +1,4 @@
+console.log('app/helpers/rental-property-type.js');
 import Ember from 'ember';
 
 const communityPropertyTypes = [

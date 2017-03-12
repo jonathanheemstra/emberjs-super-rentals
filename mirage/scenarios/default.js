@@ -1,3 +1,4 @@
+console.log('mirage/scenarios/default.js');
 export default function(/* server */) {
 
   /*

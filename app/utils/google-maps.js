@@ -1,3 +1,4 @@
+console.log('app/utils/google-maps.js');
 import Ember from 'ember';
 
 const google = window.google;

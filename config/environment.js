@@ -1,4 +1,5 @@
 /* jshint node: true */
+console.log('config/environment.js');
 
 module.exports = function(environment) {
   var ENV = {
